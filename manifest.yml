@@ -1,0 +1,9 @@
+applications:
+
+- path: .
+
+  name: bynh
+
+  random-route: true
+
+  memory: 256M
